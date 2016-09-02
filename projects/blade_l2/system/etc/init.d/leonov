@@ -1,0 +1,4 @@
+#!/system/bin/sh
+# grep leonov /etc/init.d/*
+# Load /sys/etc/leonov.conf
+leonov -p
